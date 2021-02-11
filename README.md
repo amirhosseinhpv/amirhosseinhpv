@@ -14,7 +14,7 @@
 I’m **Amirhossein Hosseinpour** from [Tehran](https://www.google.com/search?q=Tehran)
 \( originally from [Sari](https://www.google.com/search?q=Sari+Mazandaran)\), a WordPress lover and Contributor. [Check out my plugins](https://profiles.wordpress.org/amirhosseinhpv/) in official WordPress plugins directory or [browse some of my written codes](https://github.com/amirhosseinhpv?tab=repositories) here in GitHub. A complete portfolio of works I've done by myself or in collaboration with awesome people around the world could be found at [amirhosseinhpv.com](https://amirhosseinhpv.com/portfolios/).
 
-#### *What do I do for living?*
+#### *What do I offer?*
 
 Well, I can offer you Professional services like WordPress customization, plugin development, debugging and solutions alongside with PHP-/JS-/Db- driven apps AND Windows platform software programming (AU3) with premium support ([See testimonials](https://amirhosseinhpv.com/testimonials)).
 
