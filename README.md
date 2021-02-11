@@ -18,7 +18,7 @@ Currently, I'm working as CEO and Co-founder of Pepro Dev and Due to the COVID-1
 
 #### *STAY IN TOUCH*
 
-<img align="left" width="160" src="https://hpv.im/photo.png">
+<img align="left" width="160" src="https://hpv.im/amirhosseinhpv.png">
 
 &nbsp;&nbsp;&nbsp;Blog: [https://amirhosseinhpv.ir/](https://amirhosseinhpv.ir/) | [Resume](https://hpv.im/resume.pdf)
 
